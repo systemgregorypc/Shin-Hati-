@@ -10,5 +10,5 @@ def predict():
     prediction = machine_learning_model.predict(data)  
     return jsonify(prediction)
 
-if __Shin Hati__ == '__main__':
-    Shin Hati.run(debug=True)
+if __Shin Hati.app__ == '__main__':
+    Shin Hati.app.run(debug=True)
