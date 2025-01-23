@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+   int main()
+   {
+         printf("Hello world, I'm Shin Hati IA Hernandez Magerko 27, it's an honor to meet you. Dark Jedi appears c++");
+         return 0;
+    
+   
+  }
+  
